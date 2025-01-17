@@ -1,4 +1,7 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=Transparent&color=#245&height=150&section=header&text=You're welcome here!&fontSize=15" />
+
+
+
 
 <!--
 **cokiet12/cokiet12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
