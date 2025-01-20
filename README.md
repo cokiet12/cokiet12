@@ -1,27 +1,24 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=224455&height=150&section=header&text=You're%20welcome%20here!&fontSize=40&desc=I'm%20JG%20Nam.&descAlign=77&descAlignY=70&descSize=30" />
 
------
 
 
+<h4 style="font-size:30px;">
+Hi😄, I'm a <ins>full-stack web developer</ins> and an expert in <ins>monitoring and control system</ins>. 
+</h4>
+</br>
+<p>
+I am highly interested in cutting-edge technology✨
+</p>
+<p>
+I am open to opportunities, so please feel free to reach out with any suggestions💬
+</p>
+</br>
+<p>
+Thank you😄
+<p>
+ </br>
 
-
-
-Hi, I'm a full-stack web developer
-
- and an expert in monitoring and control programs.
-
-
-
-I am highly interested in cutting-edge technology. 
  
-I am open to opportunities, so please feel free to reach out with any suggestions.
-
-
-
-Thank you.
-
------
-
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
